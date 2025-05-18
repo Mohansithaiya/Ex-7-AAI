@@ -1,7 +1,6 @@
 <H3>NAME : MOHAN S</H3>
 <H3>REGISTER NO : 212223240094</H3>
 <H3>EX NO: 7</H3>
-<H3>DATE :</H3>
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
 
 ## Aim : 
